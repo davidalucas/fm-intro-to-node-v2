@@ -1,0 +1,9 @@
+{
+  "name": "fm-intro-to-node-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/davidalucas/fm-intro-to-node-v2.git",
+  "author": "David A Lucas <david.a.lucas3@boeing.com>",
+  "license": "MIT",
+  "type": "module"
+}
